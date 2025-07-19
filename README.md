@@ -1,5 +1,5 @@
 
-# AWS Hands-on Projects Portfolio
+# # 🌩️ AWS Projects Portfolio
 
 Hi! 👋 I'm actively learning and practicing cloud computing with AWS.  
 Below are some hands-on projects I’ve completed using AWS core services.
@@ -9,7 +9,7 @@ Below are some hands-on projects I’ve completed using AWS core services.
 ## 🚀 Projects Completed
 
 ### 1. Linux EC2 Instance – Nginx Web Server
-- Launched a Linux EC2 instance
+- Launched a Linux EC2 instance with Ubuntu AMI
 - Installed Nginx via SSH
 - Hosted a static website by copying files to the Nginx root folder /var/www/html.
 - Used FileZilla separately to upload a JPG file for testing.
@@ -55,11 +55,14 @@ Below are some hands-on projects I’ve completed using AWS core services.
 ---
 
 ## 📸 Screenshots
-> (Coming soon – will be added here!)
+_Screenshots will be added soon. Stay tuned!_
+
+
 
 ---
 
 ## 📫 Contact
 Feel free to connect or reach out to me for collaborations:
-- GitHub: https://github.com/sundayinibehe75-afk/
+- GitHub: - GitHub: [@sundayinibehe75-afk](https://github.com/sundayinibehe75-afk)
+
 
